@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "ru-RU",
+    locale: "en-US",
     baseUrl: "brand.oro.ad",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
